@@ -1,0 +1,14 @@
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\bin\Debug\net7.0\001.泛型引入_object.exe
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\bin\Debug\net7.0\001.泛型引入_object.deps.json
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\bin\Debug\net7.0\001.泛型引入_object.runtimeconfig.json
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\bin\Debug\net7.0\001.泛型引入_object.dll
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\bin\Debug\net7.0\001.泛型引入_object.pdb
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.AssemblyInfoInputs.cache
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.AssemblyInfo.cs
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.csproj.CoreCompileInputs.cache
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.dll
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\refint\001.泛型引入_object.dll
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.pdb
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\001.泛型引入_object.genruntimeconfig.cache
+E:\.Net\Git仓库\3.C#高阶语法\C#Advanced\001.泛型引入_object\obj\Debug\net7.0\ref\001.泛型引入_object.dll
