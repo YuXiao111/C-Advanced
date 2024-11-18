@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.泛型引入", "001.泛型引入\001.泛型引入.csproj", "{DBD3927A-AD4A-4381-B247-50D83726AB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.泛型引入", "001.泛型引入\001.泛型引入.csproj", "{DBD3927A-AD4A-4381-B247-50D83726AB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.泛型引入_object", "001.泛型引入_object\001.泛型引入_object.csproj", "{E3ADD763-1263-433D-AF68-6481E1219924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.泛型引入_object", "001.泛型引入_object\001.泛型引入_object.csproj", "{E3ADD763-1263-433D-AF68-6481E1219924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002.泛型方法", "002.泛型定义及特性\002.泛型方法.csproj", "{E9674BD6-8326-49CB-8D21-6D65CEBC7258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002.泛型类", "002.泛型类\002.泛型类.csproj", "{1E322A16-6D32-44C0-8A94-A76C59C8A5DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{E3ADD763-1263-433D-AF68-6481E1219924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3ADD763-1263-433D-AF68-6481E1219924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3ADD763-1263-433D-AF68-6481E1219924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9674BD6-8326-49CB-8D21-6D65CEBC7258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9674BD6-8326-49CB-8D21-6D65CEBC7258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9674BD6-8326-49CB-8D21-6D65CEBC7258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9674BD6-8326-49CB-8D21-6D65CEBC7258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E322A16-6D32-44C0-8A94-A76C59C8A5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E322A16-6D32-44C0-8A94-A76C59C8A5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E322A16-6D32-44C0-8A94-A76C59C8A5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E322A16-6D32-44C0-8A94-A76C59C8A5DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
